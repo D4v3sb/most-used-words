@@ -1,24 +1,3 @@
 # most-used-words
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto em Vue com Electron, analisa um arquivo de texto e mostra todas as palavras e a frequência que aparece, da mais frequente para a menos frequente
